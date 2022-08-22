@@ -37,6 +37,7 @@
     "swagger-ui-express": "^4.4.0"
   },
   "devDependencies": {
+    "@types/jest": "^28.1.7",
     "dotenv": "^16.0.1",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
